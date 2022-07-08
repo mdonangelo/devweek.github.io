@@ -57,7 +57,7 @@
 }
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
-.contact-info h2, .skills h2, .experience h2 {
+.right-section h2 {
     color: #eeeeee;
     font-size: 20px;
 }
